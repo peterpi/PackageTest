@@ -1,0 +1,7 @@
+{
+	"name" : "org.peterpi.packagetest",
+	"version" : "0.0.1",
+	"displayName" : "Peter's package test",
+	"description" : "I am testing packages from Git URLs",
+	"unity" : "2018.4"
+}
