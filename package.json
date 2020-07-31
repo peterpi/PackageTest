@@ -3,5 +3,8 @@
 	"version" : "0.0.1",
 	"displayName" : "Peter's package test",
 	"description" : "I am testing packages from Git URLs",
-	"unity" : "2018.4"
+	"unity" : "2018.4",
+	"dependencies" : {
+		"com.unity.ugui" : "1.0.0"
+	}
 }
